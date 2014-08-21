@@ -1,15 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family: Ariel;
+  font-family: ;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Ariel; /* Add your custom font here */
+  font-family: Raleway; /* Add your custom font here */
 }
 
 p {
-  font-family: Raleway, Oxygen;
+  font-family: Raleway;
   font-size: 14px;
 }
 
